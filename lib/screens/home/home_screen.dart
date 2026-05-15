@@ -55,7 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      const Icon(Icons.explore, size: 60, color: Colors.white),
+                      const Icon(Icons.explore, size: 55, color: Colors.white),
                       const SizedBox(height: 8),
                       Text(
                         'Hello, $_userName!',
