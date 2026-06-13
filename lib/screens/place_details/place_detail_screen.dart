@@ -90,7 +90,7 @@ class PlaceDetailScreen extends StatelessWidget {
                     place.howToGo,
                     style: const TextStyle(fontSize: 16, height: 1.5),
                   ),
-                  const SizedBox(height: 24),
+                  const SizedBox(height: 25),
                   
                   // Cost Information Card
                   Card(
