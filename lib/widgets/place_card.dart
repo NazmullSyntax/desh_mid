@@ -49,7 +49,7 @@ class PlaceCard extends StatelessWidget {
                         Text(place.location, style: const TextStyle(fontSize: 12, color: Colors.grey)),
                       ],
                     ),
-                    const SizedBox(height: 8),
+                    const SizedBox(height: 9),
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                       decoration: BoxDecoration(
